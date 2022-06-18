@@ -41,6 +41,6 @@ https://user-images.githubusercontent.com/107688399/174437847-b3d2eb06-9964-4365
 
 
 This project would not be posible without these repositories. Huge shoutout to TheAIguysCode and AlexeyAB :
- https://github.com/theAIGuysCode/yolov4-deepsort
- https://github.com/AlexeyAB/darknet
+ - https://github.com/theAIGuysCode/yolov4-deepsort
+ - https://github.com/AlexeyAB/darknet
   
