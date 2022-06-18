@@ -4,10 +4,9 @@ Custom tensorflow machine learning model used to detect,track and count human on
 
 # How to install
   1. Clone this repository and TheAiGuys Yolov4-deepsort repository(https://github.com/theAIGuysCode/yolov4-deepsort)
-  2. Clone
-  3. Download checkpoint file :
-  4. Unzip weight file on .\yolov4-custom-functions\checkpoints
-  5. Install dependencies -> pip3 install -r requirements.txt
+  2. Download checkpoint file :https://drive.google.com/file/d/1XTyO46jJXbL68K6OqihsYxBZDUpFIy_s/view?usp=sharing
+  3. Unzip weight file on .\yolov4-custom-functions\checkpoints
+  4. Install dependencies -> pip3 install -r requirements.txt
 
 ---
 There is 2 model option to run the person counter. Yolov4 is more accurate but not suitable for developing on mobile and embedded devices due to large computing resources needed to run the model on decent fps. Yolov4-tiny is less accurate but requires small computing resources so that it becomes feasible for developing on mobile and embedded devices.
