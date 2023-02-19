@@ -1,5 +1,5 @@
 # Person-Counter
-Custom tensorflow machine learning model used to detect,track and count human on frame. Created using yolov4 and deepsort.
+Custom tensorflow cv model used to detect,track and count human on frame. Created using yolov4 and deepsort.
 
 
 # How to install
